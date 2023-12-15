@@ -52,7 +52,7 @@ Master-Master:
 ### Решение 2
 ![mster-status.png](https://github.com/v1us1885/hw-replica12-06/blob/main/mster-status.png)
 ![conf-master.png](https://github.com/v1us1885/hw-replica12-06/blob/main/conf-master.png)
-![conf-slave.png](https://github.com/v1us1885/hw-replica12-06/blob/main/mster-slave.png)
+![conf-slave.png](https://github.com/v1us1885/hw-replica12-06/blob/main/conf-slave.png)
 ![slave-status.png](https://github.com/v1us1885/hw-replica12-06/blob/main/slave-status.png)
 ---
 
