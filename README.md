@@ -50,7 +50,10 @@ Master-Master:
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
 ### Решение 2
-![logstash.png)](https://github.com/v1us1885/hw-elk/blob/main/logstash.png)
+![mster-status.png](https://github.com/v1us1885/hw-replica12-06/blob/main/mster-status.png)
+![conf-master.png](https://github.com/v1us1885/hw-replica12-06/blob/main/conf-master.png)
+![conf-slave.png](https://github.com/v1us1885/hw-replica12-06/blob/main/mster-slave.png)
+![slave-status.png](https://github.com/v1us1885/hw-replica12-06/blob/main/slave-status.png)
 ---
 
 ## Дополнительные задания (со звёздочкой*)
